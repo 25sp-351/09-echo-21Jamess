@@ -1,0 +1,20 @@
+Language: Cpp
+BasedOnStyle: Google
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80
+ReflowComments: true
+AlignOperands: true
+InsertBraces: false
+RemoveBracesLLVM: true
+BreakStringLiterals: true
+KeepEmptyLinesAtTheStartOfBlocks: true
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AlignConsecutiveAssignments: AcrossEmptyLines
+InsertNewlineAtEOF: true
+AlignEscapedNewlines: LeftWithLastLine
+
